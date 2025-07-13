@@ -12,7 +12,8 @@ The primary objective of this case study is to leverage analytics, SQL, and data
 *	Offer actionable recommendations to enhance overall sales performance
 
 ### Summary of Analysis ###
-Daily Revenue by Day of the Week:
+
+### Daily Revenue by Day of the WeeK:
 *	Sunday – 14.07%
 *	Monday – 14.55%
 *	Tuesday – 14.23%
@@ -21,13 +22,13 @@ Daily Revenue by Day of the Week:
 *	Friday – 14.51%
 *	Saturday – 13.87%
 
-### Sales by Time of Day ###
+### Sales by Time of Day:
 *	Morning – 55.56%
 *	Afternoon – 23.41%
 *	Evening – 20.61%
 *	Night – 0.42%
 
-### Monthly Sales Revenue ###
+### Monthly Sales Revenue:
 *	January – 11.60%
 *	February – 10.98%
 *	March – 14.18%
@@ -35,7 +36,7 @@ Daily Revenue by Day of the Week:
 *	May – 22.49%
 *	June – 23.75%
 
-### Quantity Sold by Product Category ###
+### Quantity Sold by Product Category:
 *	Coffee – 41.61%
 *	Tea – 32.52%
 *	Bakery – 10.82%
@@ -46,7 +47,7 @@ Daily Revenue by Day of the Week:
 *	Branded Merchandise – 0.36%
 *	Packaged Chocolate – 0.23%
 
-### Revenue by Store Location ###
+### Revenue by Store Location:
 *	Hell’s Kitchen – 33.82%
 *	Astoria – 33.23%
 *	Lower Manhattan – 32.92%
@@ -59,7 +60,7 @@ Daily Revenue by Day of the Week:
 *	Tailor Offerings by Location: Optimize product selection and promotions to better meet customer preferences in Lower Manhattan.
 
 ### Tools Used ###
-To conduct this analysis and achieve the objectives of the study, the following tools were used:
+### To conduct this analysis and achieve the objectives of the study, the following tools were used:
 *	Bright Coffee Shop Data: Served as the foundational dataset, containing daily transactional records across three locations.
 *	Miro: Utilized for project planning and architecture mapping during the initial phase.
 *	Snowflake: Used for transforming and querying raw data via SQL to enable deep, real-time analysis.
