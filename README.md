@@ -5,7 +5,7 @@ Following the recent appointment of a new CEO focused on increasing revenue and 
 
 ### Objective ###
 The primary objective of this case study is to leverage analytics, SQL, and data visualization techniques to uncover key operational insights for Bright Coffee Shop. The analysis aims to:
-•	Identify top revenue-generating products
+* Identify top revenue-generating products
 •	Determine peak sales periods throughout the day
 •	Examine sales trends across product categories and time intervals
 •	Evaluate monthly revenue performance
